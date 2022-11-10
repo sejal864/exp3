@@ -1,0 +1,25 @@
+1. Download terraform
+2. Extract in c drive first create new folder extract there
+3. Edit environmental variable
+4. Click on path - edit
+5. New path create
+6.open windows powershell - run as administrator
+7. Cd /
+8. Cd terraform
+9 . Terraform
+10.Access key- create new acceSs key
+11. Copy access and secret key
+12.services - EC2
+13. Instances - launch instance
+14.give name and launch
+15. Click on your instance 
+16. Copy ami id
+17. Paste in notepad file
+18. Power shell - administrator 
+19. Cd /
+10. Cd terraform
+11. Cd config1
+12. Terraform init
+13. Terraform plan
+14. Terraform apply
+15. Terraform destroy
